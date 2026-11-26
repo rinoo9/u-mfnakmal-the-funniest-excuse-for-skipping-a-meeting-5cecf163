@@ -18,13 +18,18 @@ wasting my time. One tight line, no setup it does not need.
 Revision: "a meeting" became "the meeting" — the definite
 article makes it the one recurring, infamous meeting about
 meetings, a sharper and more specific image than any meeting.
+
+Round 2: fresh angle — the zombie recurring invite from 2023 that
+nobody cancelled, still holding the worker hostage. The joke is
+the calendar as captor, not the meeting-about-meetings loop.
+"Send snacks" lands the hostage image in three words.
 """
 
 import os
 
 LINE = (
-    "Sorry, I can't make it — I'm double-booked with the meeting "
-    "about why we have too many meetings, and it ran over."
+    "Sorry — my calendar auto-accepted a meeting from 2023 that nobody "
+    "ever cancelled. I'm still in it. Send snacks."
 )
 
 
