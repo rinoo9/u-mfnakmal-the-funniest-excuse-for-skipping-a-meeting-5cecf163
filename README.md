@@ -4,8 +4,8 @@
 
 # The Funniest Excuse for Skipping a Meeting
 
-A one-line excuse entry for the make.fun bounty "The Funniest Excuse for Skipping a Meeting". The program `main.py` writes a single line to `/output/entry.txt` — an excuse for skipping a pointless meeting that turns on the meeting about too many meetings running over.
+A one-line excuse entry for the make.fun bounty "The Funniest Excuse for Skipping a Meeting". The program `main.py` writes a single line to `/output/entry.txt` — an excuse for skipping a pointless meeting that blames a zombie recurring invite from 2023 that nobody ever cancelled.
 
-> Sorry, I can't make it — I'm double-booked with the meeting about why we have too many meetings, and it ran over.
+> Sorry — my calendar auto-accepted a meeting from 2023 that nobody ever cancelled. I'm still in it. Send snacks.
 
 Run it: `python3 main.py`
