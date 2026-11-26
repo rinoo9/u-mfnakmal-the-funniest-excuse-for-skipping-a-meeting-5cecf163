@@ -14,12 +14,16 @@ too many meetings commits the very sin it exists to protest.
 The turn is self-defeating bureaucracy: the excuse is not that
 I am busy, it is that the system that wastes my time is itself
 wasting my time. One tight line, no setup it does not need.
+
+Revision: "a meeting" became "the meeting" — the definite
+article makes it the one recurring, infamous meeting about
+meetings, a sharper and more specific image than any meeting.
 """
 
 import os
 
 LINE = (
-    "Sorry, I can't make it — I'm double-booked with a meeting "
+    "Sorry, I can't make it — I'm double-booked with the meeting "
     "about why we have too many meetings, and it ran over."
 )
 
